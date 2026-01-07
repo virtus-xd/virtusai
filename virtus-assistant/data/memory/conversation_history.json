@@ -1,0 +1,116 @@
+[
+  {
+    "timestamp": "2026-01-08T00:42:20.713173",
+    "user": "Anıtkabir ne zaman inşa",
+    "assistant": "Anıtkabir'in inşaat tarihini araştırıyorum...",
+    "intent": "information",
+    "entities": {
+      "query": "Anıtkabir inşa tarihi"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:42:43.119682",
+    "user": "Anıtkabir hangi yılda inşa edil",
+    "assistant": "Anıtkabir'in inşa edildiği yılı araştırıyorum...",
+    "intent": "information",
+    "entities": {
+      "query": "Anıtkabir inşa edildiği yıl"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:46:11.907908",
+    "user": "Atatürk kaç yılında öldü",
+    "assistant": "Atatürk'ün ölüm yılını araştırıyorum...",
+    "intent": "information",
+    "entities": {
+      "query": "Atatürk ölüm yılı"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:46:30.103724",
+    "user": "steam'den Bravo",
+    "assistant": "Steam'de Bravo arıyorum...",
+    "intent": "search",
+    "entities": {
+      "query": "steam Bravo"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:46:54.969251",
+    "user": "steam'den brawlhalla",
+    "assistant": "Steam'de Brawlhalla arıyorum...",
+    "intent": "search",
+    "entities": {
+      "query": "Steam'de Brawlhalla"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:47:31.843445",
+    "user": "Counter Strike 2 aç",
+    "assistant": "Counter Strike 2 açılıyor.",
+    "intent": "open_app",
+    "entities": {
+      "app_name": "Counter Strike 2"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:49:17.115961",
+    "user": "Counter Strike 2 aç",
+    "assistant": "Counter Strike 2 açılıyor.",
+    "intent": "open_app",
+    "entities": {
+      "app_name": "Counter Strike 2"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:49:38.672105",
+    "user": "League of legends'ı",
+    "assistant": "League of Legends açılıyor.",
+    "intent": "open_app",
+    "entities": {
+      "app_name": "League of Legends"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:50:31.612385",
+    "user": "YouTube'da Orkun Işıtmak ara",
+    "assistant": "YouTube üzerinde Orkun Işıtmak aramasını yapıyorum.",
+    "intent": "search",
+    "entities": {
+      "query": "YouTube'da Orkun Işıtmak"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:52:26.984611",
+    "user": "Benim adım ne",
+    "assistant": "Üzgünüm, henüz adınızı bilmiyorum. Bana adınızı söyler misiniz?",
+    "intent": "information",
+    "entities": {}
+  },
+  {
+    "timestamp": "2026-01-08T00:52:45.146371",
+    "user": "Benim adım Erdem bunu hafızana",
+    "assistant": "Adınız Erdem olarak kaydedildi.",
+    "intent": "information",
+    "entities": {
+      "name": "Erdem"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T00:53:12.590988",
+    "user": "Benim adım ne",
+    "assistant": "Adınız Erdem.",
+    "intent": "information",
+    "entities": {}
+  },
+  {
+    "timestamp": "2026-01-08T00:53:55.216259",
+    "user": "Benim adım Erdem değil mi",
+    "assistant": "Evet, adınız Erdem olarak kayıtlı.",
+    "intent": "information",
+    "entities": {
+      "information_type": "name",
+      "expected_value": "Erdem"
+    }
+  }
+]

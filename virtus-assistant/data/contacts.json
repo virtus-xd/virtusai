@@ -1,0 +1,14 @@
+{
+  "Mehmet": {
+    "phone": "+905551234567",
+    "email": "mehmet@example.com"
+  },
+  "Ayşe": {
+    "phone": "+905559876543",
+    "email": "ayse@example.com"
+  },
+  "Ali": {
+    "phone": "+905551112233",
+    "email": "ali@example.com"
+  }
+}

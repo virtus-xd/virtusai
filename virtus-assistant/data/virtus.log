@@ -1,0 +1,118 @@
+2026-01-08 00:17:25,363 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:17:25,378 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:17:25,490 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:17:25,490 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:17:25,490 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:17:25,490 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:17:25,490 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:17:27,673 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 71
+2026-01-08 00:17:27,673 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:17:28,517 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:17:28,524 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:17:28,525 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:23:11,073 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:23:11,076 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:23:11,175 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:23:11,176 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:23:11,176 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:23:11,176 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:23:11,176 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:23:13,371 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 69
+2026-01-08 00:23:13,371 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:23:14,209 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:23:14,215 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:23:14,216 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:23:42,097 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:23:43,211 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:23:45,531 - plugins.application_master - ERROR - Baþlatma hatasý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2026-01-08 00:24:12,138 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:24:13,362 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:24:40,193 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:24:41,334 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:26:04,047 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:26:05,534 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:26:11,943 - core.virtus_fixed - WARNING - Bilinmeyen intent: file_operation
+2026-01-08 00:27:46,544 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:27:47,801 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:27:50,519 - core.virtus_fixed - WARNING - Bilinmeyen intent: file_operation
+2026-01-08 00:29:40,636 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:29:40,639 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:29:40,734 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:29:40,734 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:29:40,734 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:29:40,734 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:29:40,734 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:29:43,322 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 69
+2026-01-08 00:29:43,322 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:29:44,179 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:29:44,185 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:29:44,186 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:30:09,613 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:30:11,392 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:31:29,165 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:31:30,617 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:34:32,710 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:34:34,336 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:41:37,716 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:41:37,716 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:41:37,823 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:41:37,823 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:41:37,823 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:41:37,823 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:41:37,823 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:41:40,434 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 41
+2026-01-08 00:41:40,434 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:41:41,267 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:41:41,273 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:41:41,274 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:42:14,004 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:42:15,625 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:42:36,265 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:42:37,548 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:45:21,979 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:45:21,981 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:45:22,083 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:45:22,083 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:45:22,083 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:45:22,083 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:45:22,083 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:45:24,390 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 40
+2026-01-08 00:45:24,390 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:45:25,231 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:45:25,237 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:45:25,238 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:46:05,752 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:46:07,353 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:46:24,765 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:46:26,199 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:46:49,540 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:46:50,845 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:47:26,920 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:47:28,320 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:48:36,983 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:48:36,985 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:48:37,104 - modules.advanced_speech_recognition - INFO -    [0] Microsoft Ses EÅŸleÅŸtiricisi - Input
+2026-01-08 00:48:37,104 - modules.advanced_speech_recognition - INFO -    [1] Mikrofon (Realtek(R) Audio)
+2026-01-08 00:48:37,104 - modules.advanced_speech_recognition - INFO -    [2] Mikrofon Dizisi (Realtek(R) Aud
+2026-01-08 00:48:37,104 - modules.advanced_speech_recognition - INFO -    [3] Microsoft Ses EÅŸleÅŸtiricisi - Output
+2026-01-08 00:48:37,105 - modules.advanced_speech_recognition - INFO -    [4] KulaklÄ±klar (Realtek(R) Audio)
+2026-01-08 00:48:39,414 - modules.advanced_speech_recognition - INFO -    Enerji eþiði: 40
+2026-01-08 00:48:39,414 - modules.advanced_speech_recognition - INFO -    Dinamik ayar: True
+2026-01-08 00:48:40,270 - core.ai_brain - INFO - Google Genai (yeni API) kullanýlýyor
+2026-01-08 00:48:40,276 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:48:40,277 - core.virtus_fixed - INFO - ============================================================
+2026-01-08 00:49:11,929 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:49:13,550 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:49:34,023 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:49:35,325 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:49:38,674 - plugins.application_master - ERROR - Baþlatma hatasý: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2026-01-08 00:50:25,140 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:50:26,496 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:52:19,083 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:52:20,494 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:52:40,097 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:52:41,652 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:53:09,158 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:53:10,379 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2026-01-08 00:53:49,664 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-01-08 00:53:51,075 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"

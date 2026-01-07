@@ -1,0 +1,1973 @@
+{
+  "apps": {
+    "chrome": {
+      "exe": "chrome.exe",
+      "names": [
+        "chrome",
+        "google chrome"
+      ],
+      "type": "common"
+    },
+    "firefox": {
+      "exe": "firefox.exe",
+      "names": [
+        "firefox",
+        "mozilla firefox"
+      ],
+      "type": "common"
+    },
+    "edge": {
+      "exe": "msedge.exe",
+      "names": [
+        "edge",
+        "microsoft edge"
+      ],
+      "type": "common"
+    },
+    "opera": {
+      "exe": "opera.exe",
+      "names": [
+        "opera"
+      ],
+      "type": "common"
+    },
+    "brave": {
+      "exe": "brave.exe",
+      "names": [
+        "brave"
+      ],
+      "type": "common"
+    },
+    "discord": {
+      "exe": "C:\\Users\\erdem\\AppData\\Local\\Discord",
+      "names": [
+        "discord"
+      ],
+      "type": "registry"
+    },
+    "telegram": {
+      "exe": "Telegram.exe",
+      "names": [
+        "telegram"
+      ],
+      "type": "common"
+    },
+    "whatsapp": {
+      "exe": "WhatsApp.exe",
+      "names": [
+        "whatsapp"
+      ],
+      "type": "common"
+    },
+    "slack": {
+      "exe": "slack.exe",
+      "names": [
+        "slack"
+      ],
+      "type": "common"
+    },
+    "teams": {
+      "exe": "Teams.exe",
+      "names": [
+        "teams",
+        "microsoft teams"
+      ],
+      "type": "common"
+    },
+    "zoom": {
+      "exe": "Zoom.exe",
+      "names": [
+        "zoom"
+      ],
+      "type": "common"
+    },
+    "skype": {
+      "exe": "Skype.exe",
+      "names": [
+        "skype"
+      ],
+      "type": "common"
+    },
+    "vscode": {
+      "exe": "Code.exe",
+      "names": [
+        "vscode",
+        "visual studio code",
+        "code"
+      ],
+      "type": "common"
+    },
+    "visual studio": {
+      "exe": "devenv.exe",
+      "names": [
+        "visual studio"
+      ],
+      "type": "common"
+    },
+    "pycharm": {
+      "exe": "pycharm64.exe",
+      "names": [
+        "pycharm"
+      ],
+      "type": "common"
+    },
+    "intellij": {
+      "exe": "idea64.exe",
+      "names": [
+        "intellij",
+        "intellij idea"
+      ],
+      "type": "common"
+    },
+    "android studio": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Android Studio\\Android Studio.lnk",
+      "names": [
+        "android studio"
+      ],
+      "type": "shortcut"
+    },
+    "sublime": {
+      "exe": "sublime_text.exe",
+      "names": [
+        "sublime",
+        "sublime text"
+      ],
+      "type": "common"
+    },
+    "notepad++": {
+      "exe": "notepad++.exe",
+      "names": [
+        "notepad++",
+        "notepad plus"
+      ],
+      "type": "common"
+    },
+    "atom": {
+      "exe": "atom.exe",
+      "names": [
+        "atom"
+      ],
+      "type": "common"
+    },
+    "git bash": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
+      "names": [
+        "git bash"
+      ],
+      "type": "shortcut"
+    },
+    "github desktop": {
+      "exe": "GitHubDesktop.exe",
+      "names": [
+        "github desktop",
+        "github"
+      ],
+      "type": "common"
+    },
+    "word": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+      "names": [
+        "word"
+      ],
+      "type": "shortcut"
+    },
+    "excel": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+      "names": [
+        "excel"
+      ],
+      "type": "shortcut"
+    },
+    "powerpoint": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+      "names": [
+        "powerpoint"
+      ],
+      "type": "shortcut"
+    },
+    "outlook": {
+      "exe": "OUTLOOK.EXE",
+      "names": [
+        "outlook",
+        "microsoft outlook"
+      ],
+      "type": "common"
+    },
+    "onenote": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
+      "names": [
+        "onenote"
+      ],
+      "type": "shortcut"
+    },
+    "spotify": {
+      "exe": "Spotify.exe",
+      "names": [
+        "spotify"
+      ],
+      "type": "common"
+    },
+    "vlc": {
+      "exe": "vlc.exe",
+      "names": [
+        "vlc",
+        "vlc media player"
+      ],
+      "type": "common"
+    },
+    "itunes": {
+      "exe": "iTunes.exe",
+      "names": [
+        "itunes"
+      ],
+      "type": "common"
+    },
+    "photoshop": {
+      "exe": "Photoshop.exe",
+      "names": [
+        "photoshop",
+        "adobe photoshop"
+      ],
+      "type": "common"
+    },
+    "premiere": {
+      "exe": "Adobe Premiere Pro.exe",
+      "names": [
+        "premiere",
+        "adobe premiere"
+      ],
+      "type": "common"
+    },
+    "after effects": {
+      "exe": "AfterFX.exe",
+      "names": [
+        "after effects",
+        "adobe after effects"
+      ],
+      "type": "common"
+    },
+    "illustrator": {
+      "exe": "Illustrator.exe",
+      "names": [
+        "illustrator",
+        "adobe illustrator"
+      ],
+      "type": "common"
+    },
+    "obs": {
+      "exe": "obs64.exe",
+      "names": [
+        "obs",
+        "obs studio"
+      ],
+      "type": "common"
+    },
+    "audacity": {
+      "exe": "audacity.exe",
+      "names": [
+        "audacity"
+      ],
+      "type": "common"
+    },
+    "gimp": {
+      "exe": "gimp-2.10.exe",
+      "names": [
+        "gimp"
+      ],
+      "type": "common"
+    },
+    "steam": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+      "names": [
+        "steam"
+      ],
+      "type": "shortcut"
+    },
+    "epic games": {
+      "exe": "EpicGamesLauncher.exe",
+      "names": [
+        "epic",
+        "epic games"
+      ],
+      "type": "common"
+    },
+    "origin": {
+      "exe": "Origin.exe",
+      "names": [
+        "origin"
+      ],
+      "type": "common"
+    },
+    "uplay": {
+      "exe": "uplay.exe",
+      "names": [
+        "uplay",
+        "ubisoft connect"
+      ],
+      "type": "common"
+    },
+    "battle.net": {
+      "exe": "Battle.net.exe",
+      "names": [
+        "battle.net",
+        "battlenet",
+        "blizzard"
+      ],
+      "type": "common"
+    },
+    "gog galaxy": {
+      "exe": "GalaxyClient.exe",
+      "names": [
+        "gog",
+        "gog galaxy"
+      ],
+      "type": "common"
+    },
+    "ea app": {
+      "exe": "EADesktop.exe",
+      "names": [
+        "ea app",
+        "ea"
+      ],
+      "type": "common"
+    },
+    "notepad": {
+      "exe": "notepad.exe",
+      "names": [
+        "notepad",
+        "not defteri"
+      ],
+      "type": "common"
+    },
+    "calculator": {
+      "exe": "calc.exe",
+      "names": [
+        "calculator",
+        "hesap makinesi"
+      ],
+      "type": "common"
+    },
+    "paint": {
+      "exe": "mspaint.exe",
+      "names": [
+        "paint",
+        "resim"
+      ],
+      "type": "common"
+    },
+    "cmd": {
+      "exe": "cmd.exe",
+      "names": [
+        "cmd",
+        "command prompt",
+        "komut istemi"
+      ],
+      "type": "common"
+    },
+    "powershell": {
+      "exe": "powershell.exe",
+      "names": [
+        "powershell"
+      ],
+      "type": "common"
+    },
+    "task manager": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+      "names": [
+        "task manager"
+      ],
+      "type": "shortcut"
+    },
+    "control panel": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+      "names": [
+        "control panel"
+      ],
+      "type": "shortcut"
+    },
+    "settings": {
+      "exe": "ms-settings:",
+      "names": [
+        "settings",
+        "ayarlar"
+      ],
+      "type": "common"
+    },
+    "explorer": {
+      "exe": "explorer.exe",
+      "names": [
+        "explorer",
+        "dosya gezgini",
+        "file explorer"
+      ],
+      "type": "common"
+    },
+    "winrar": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
+      "names": [
+        "winrar"
+      ],
+      "type": "shortcut"
+    },
+    "7zip": {
+      "exe": "7zFM.exe",
+      "names": [
+        "7zip",
+        "7-zip"
+      ],
+      "type": "common"
+    },
+    "ccleaner": {
+      "exe": "CCleaner64.exe",
+      "names": [
+        "ccleaner"
+      ],
+      "type": "common"
+    },
+    "malwarebytes": {
+      "exe": "mbam.exe",
+      "names": [
+        "malwarebytes"
+      ],
+      "type": "common"
+    },
+    "vmware": {
+      "exe": "vmware.exe",
+      "names": [
+        "vmware"
+      ],
+      "type": "common"
+    },
+    "virtualbox": {
+      "exe": "VirtualBox.exe",
+      "names": [
+        "virtualbox"
+      ],
+      "type": "common"
+    },
+    "anydesk": {
+      "exe": "AnyDesk.exe",
+      "names": [
+        "anydesk"
+      ],
+      "type": "common"
+    },
+    "teamviewer": {
+      "exe": "TeamViewer.exe",
+      "names": [
+        "teamviewer"
+      ],
+      "type": "common"
+    },
+    "administrative tools": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk",
+      "names": [
+        "administrative tools"
+      ],
+      "type": "shortcut"
+    },
+    "file explorer": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
+      "names": [
+        "file explorer"
+      ],
+      "type": "shortcut"
+    },
+    "gameforge client": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Gameforge Client.lnk",
+      "names": [
+        "gameforge client"
+      ],
+      "type": "shortcut"
+    },
+    "ollama": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Ollama.lnk",
+      "names": [
+        "ollama"
+      ],
+      "type": "shortcut"
+    },
+    "livecaptions": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\LiveCaptions.lnk",
+      "names": [
+        "livecaptions"
+      ],
+      "type": "shortcut"
+    },
+    "magnify": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+      "names": [
+        "magnify"
+      ],
+      "type": "shortcut"
+    },
+    "narrator": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+      "names": [
+        "narrator"
+      ],
+      "type": "shortcut"
+    },
+    "on-screen keyboard": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+      "names": [
+        "on-screen keyboard"
+      ],
+      "type": "shortcut"
+    },
+    "voiceaccess": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\VoiceAccess.lnk",
+      "names": [
+        "voiceaccess"
+      ],
+      "type": "shortcut"
+    },
+    "capcut": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CapCut\\CapCut.lnk",
+      "names": [
+        "capcut"
+      ],
+      "type": "shortcut"
+    },
+    "internet download manager": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Internet Download Manager\\Internet Download Manager.lnk",
+      "names": [
+        "internet download manager"
+      ],
+      "type": "shortcut"
+    },
+    "license": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Internet Download Manager\\license.lnk",
+      "names": [
+        "license"
+      ],
+      "type": "shortcut"
+    },
+    "tutorials": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Internet Download Manager\\TUTORIALS.lnk",
+      "names": [
+        "tutorials"
+      ],
+      "type": "shortcut"
+    },
+    "dualsensex": {
+      "exe": "C:\\Users\\erdem\\AppData\\Local\\DualSenseX",
+      "names": [
+        "dualsensex"
+      ],
+      "type": "registry"
+    },
+    "idle (python 3.11 64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\IDLE (Python 3.11 64-bit).lnk",
+      "names": [
+        "idle (python 3.11 64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.11 (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 (64-bit).lnk",
+      "names": [
+        "python 3.11 (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.11 manuals (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Manuals (64-bit).lnk",
+      "names": [
+        "python 3.11 manuals (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.11 module docs (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Module Docs (64-bit).lnk",
+      "names": [
+        "python 3.11 module docs (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "idle (python 3.13 64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\IDLE (Python 3.13 64-bit).lnk",
+      "names": [
+        "idle (python 3.13 64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.13 (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 (64-bit).lnk",
+      "names": [
+        "python 3.13 (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.13 manuals (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Manuals (64-bit).lnk",
+      "names": [
+        "python 3.13 manuals (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.13 module docs (64-bit)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Module Docs (64-bit).lnk",
+      "names": [
+        "python 3.13 module docs (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "rockstar games launcher": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Rockstar Games\\Rockstar Games Launcher.lnk",
+      "names": [
+        "rockstar games launcher"
+      ],
+      "type": "shortcut"
+    },
+    "command prompt": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+      "names": [
+        "command prompt"
+      ],
+      "type": "shortcut"
+    },
+    "run": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+      "names": [
+        "run"
+      ],
+      "type": "shortcut"
+    },
+    "visual studio code": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "names": [
+        "visual studio code"
+      ],
+      "type": "shortcut"
+    },
+    "windows powershell (x86)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+      "names": [
+        "windows powershell (x86)"
+      ],
+      "type": "shortcut"
+    },
+    "windows powershell": {
+      "exe": "C:\\Users\\erdem\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+      "names": [
+        "windows powershell"
+      ],
+      "type": "shortcut"
+    },
+    "konsol rar kılavuzu": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Konsol RAR kılavuzu.lnk",
+      "names": [
+        "konsol rar kılavuzu"
+      ],
+      "type": "shortcut"
+    },
+    "winrar yardımı": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR yardımı.lnk",
+      "names": [
+        "winrar yardımı"
+      ],
+      "type": "shortcut"
+    },
+    "access": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
+      "names": [
+        "access"
+      ],
+      "type": "shortcut"
+    },
+    "adobe acrobat": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat.lnk",
+      "names": [
+        "adobe acrobat"
+      ],
+      "type": "shortcut"
+    },
+    "blend for visual studio 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blend for Visual Studio 2022.lnk",
+      "names": [
+        "blend for visual studio 2022"
+      ],
+      "type": "shortcut"
+    },
+    "epic games launcher": {
+      "exe": "C:\\Program Files\\Epic Games\\",
+      "names": [
+        "epic games launcher"
+      ],
+      "type": "registry"
+    },
+    "google chrome beta": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome Beta.lnk",
+      "names": [
+        "google chrome beta"
+      ],
+      "type": "shortcut"
+    },
+    "google chrome": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+      "names": [
+        "google chrome"
+      ],
+      "type": "shortcut"
+    },
+    "legion arena": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Legion Arena.lnk",
+      "names": [
+        "legion arena"
+      ],
+      "type": "shortcut"
+    },
+    "lenovo now": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Lenovo Now.lnk",
+      "names": [
+        "lenovo now"
+      ],
+      "type": "shortcut"
+    },
+    "microsoft edge": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+      "names": [
+        "microsoft edge"
+      ],
+      "type": "shortcut"
+    },
+    "obs studio": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio.lnk",
+      "names": [
+        "obs studio"
+      ],
+      "type": "shortcut"
+    },
+    "onedrive": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+      "names": [
+        "onedrive"
+      ],
+      "type": "shortcut"
+    },
+    "outlook (classic)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook (classic).lnk",
+      "names": [
+        "outlook (classic)"
+      ],
+      "type": "shortcut"
+    },
+    "publisher": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Publisher.lnk",
+      "names": [
+        "publisher"
+      ],
+      "type": "shortcut"
+    },
+    "sticky notes (new)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sticky Notes (new).lnk",
+      "names": [
+        "sticky notes (new)"
+      ],
+      "type": "shortcut"
+    },
+    "visual studio 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022.lnk",
+      "names": [
+        "visual studio 2022"
+      ],
+      "type": "shortcut"
+    },
+    "visual studio installer": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk",
+      "names": [
+        "visual studio installer"
+      ],
+      "type": "shortcut"
+    },
+    "remote desktop connection": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+      "names": [
+        "remote desktop connection"
+      ],
+      "type": "shortcut"
+    },
+    "steps recorder": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
+      "names": [
+        "steps recorder"
+      ],
+      "type": "shortcut"
+    },
+    "windows fax and scan": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
+      "names": [
+        "windows fax and scan"
+      ],
+      "type": "shortcut"
+    },
+    "windows media player legacy": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player Legacy.lnk",
+      "names": [
+        "windows media player legacy"
+      ],
+      "type": "shortcut"
+    },
+    "character map": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+      "names": [
+        "character map"
+      ],
+      "type": "shortcut"
+    },
+    "component services": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+      "names": [
+        "component services"
+      ],
+      "type": "shortcut"
+    },
+    "computer management": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+      "names": [
+        "computer management"
+      ],
+      "type": "shortcut"
+    },
+    "dfrgui": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+      "names": [
+        "dfrgui"
+      ],
+      "type": "shortcut"
+    },
+    "disk cleanup": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+      "names": [
+        "disk cleanup"
+      ],
+      "type": "shortcut"
+    },
+    "event viewer": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+      "names": [
+        "event viewer"
+      ],
+      "type": "shortcut"
+    },
+    "iscsi initiator": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+      "names": [
+        "iscsi initiator"
+      ],
+      "type": "shortcut"
+    },
+    "memory diagnostics tool": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+      "names": [
+        "memory diagnostics tool"
+      ],
+      "type": "shortcut"
+    },
+    "odbc data sources (32-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+      "names": [
+        "odbc data sources (32-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "odbc data sources (64-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+      "names": [
+        "odbc data sources (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "performance monitor": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+      "names": [
+        "performance monitor"
+      ],
+      "type": "shortcut"
+    },
+    "print management": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Print Management.lnk",
+      "names": [
+        "print management"
+      ],
+      "type": "shortcut"
+    },
+    "recoverydrive": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+      "names": [
+        "recoverydrive"
+      ],
+      "type": "shortcut"
+    },
+    "registry editor": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+      "names": [
+        "registry editor"
+      ],
+      "type": "shortcut"
+    },
+    "resource monitor": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+      "names": [
+        "resource monitor"
+      ],
+      "type": "shortcut"
+    },
+    "security configuration management": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Security Configuration Management.lnk",
+      "names": [
+        "security configuration management"
+      ],
+      "type": "shortcut"
+    },
+    "services": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+      "names": [
+        "services"
+      ],
+      "type": "shortcut"
+    },
+    "system configuration": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+      "names": [
+        "system configuration"
+      ],
+      "type": "shortcut"
+    },
+    "system information": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+      "names": [
+        "system information"
+      ],
+      "type": "shortcut"
+    },
+    "task scheduler": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+      "names": [
+        "task scheduler"
+      ],
+      "type": "shortcut"
+    },
+    "windows defender firewall with advanced security": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+      "names": [
+        "windows defender firewall with advanced security"
+      ],
+      "type": "shortcut"
+    },
+    "attack sharkr1mouse": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Attack SharkR1Mouse\\Attack SharkR1Mouse.lnk",
+      "names": [
+        "attack sharkr1mouse"
+      ],
+      "type": "shortcut"
+    },
+    "dev-c++": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bloodshed Dev-C++\\Dev-C++.lnk",
+      "names": [
+        "dev-c++"
+      ],
+      "type": "shortcut"
+    },
+    "hwmonitor": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CPUID\\HWMonitor\\HWMonitor.lnk",
+      "names": [
+        "hwmonitor"
+      ],
+      "type": "shortcut"
+    },
+    "cursor": {
+      "exe": "C:\\Program Files\\cursor\\",
+      "names": [
+        "cursor"
+      ],
+      "type": "registry"
+    },
+    "app recovery": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\App Recovery.lnk",
+      "names": [
+        "app recovery"
+      ],
+      "type": "shortcut"
+    },
+    "ea app updater": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA app Updater.lnk",
+      "names": [
+        "ea app updater"
+      ],
+      "type": "shortcut"
+    },
+    "ea error reporter": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA Error Reporter.lnk",
+      "names": [
+        "ea error reporter"
+      ],
+      "type": "shortcut"
+    },
+    "ea updater": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA Updater.lnk",
+      "names": [
+        "ea updater"
+      ],
+      "type": "shortcut"
+    },
+    "ea": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA.lnk",
+      "names": [
+        "ea"
+      ],
+      "type": "shortcut"
+    },
+    "elden ring": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Elden Ring [RePack by Wanterlude]\\Elden Ring.lnk",
+      "names": [
+        "elden ring"
+      ],
+      "type": "shortcut"
+    },
+    "[language changer] elden ring": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Elden Ring [RePack by Wanterlude]\\[Language Changer] Elden Ring.lnk",
+      "names": [
+        "[language changer] elden ring"
+      ],
+      "type": "shortcut"
+    },
+    "git cmd": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
+      "names": [
+        "git cmd"
+      ],
+      "type": "shortcut"
+    },
+    "git gui": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
+      "names": [
+        "git gui"
+      ],
+      "type": "shortcut"
+    },
+    "git release notes": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk",
+      "names": [
+        "git release notes"
+      ],
+      "type": "shortcut"
+    },
+    "imagemagick web pages": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ImageMagick 7.1.1 Q16-HDRI (64-bit)\\ImageMagick Web Pages.lnk",
+      "names": [
+        "imagemagick web pages"
+      ],
+      "type": "shortcut"
+    },
+    "about java": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\About Java.lnk",
+      "names": [
+        "about java"
+      ],
+      "type": "shortcut"
+    },
+    "check for updates": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk",
+      "names": [
+        "check for updates"
+      ],
+      "type": "shortcut"
+    },
+    "configure java": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk",
+      "names": [
+        "configure java"
+      ],
+      "type": "shortcut"
+    },
+    "intellij idea community edition 2025.2.3": {
+      "exe": "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2025.2.3",
+      "names": [
+        "intellij idea community edition 2025.2.3"
+      ],
+      "type": "registry"
+    },
+    "pycharm community edition 2024.3.3": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm Community Edition 2024.3.3.lnk",
+      "names": [
+        "pycharm community edition 2024.3.3"
+      ],
+      "type": "shortcut"
+    },
+    "logitech g hub": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logi\\Logitech G HUB.lnk",
+      "names": [
+        "logitech g hub"
+      ],
+      "type": "shortcut"
+    },
+    "office dil tercihleri": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Araçları\\Office Dil Tercihleri.lnk",
+      "names": [
+        "office dil tercihleri"
+      ],
+      "type": "shortcut"
+    },
+    "install additional tools for node.js": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Install Additional Tools for Node.js.lnk",
+      "names": [
+        "install additional tools for node.js"
+      ],
+      "type": "shortcut"
+    },
+    "node.js command prompt": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js command prompt.lnk",
+      "names": [
+        "node.js command prompt"
+      ],
+      "type": "shortcut"
+    },
+    "node.js": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js.lnk",
+      "names": [
+        "node.js"
+      ],
+      "type": "shortcut"
+    },
+    "nvidia app": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\NVIDIA App.lnk",
+      "names": [
+        "nvidia app"
+      ],
+      "type": "shortcut"
+    },
+    "idle (python 3.14 64-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.14\\IDLE (Python 3.14 64-bit).lnk",
+      "names": [
+        "idle (python 3.14 64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.14 (64-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.14\\Python 3.14 (64-bit).lnk",
+      "names": [
+        "python 3.14 (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.14 manuals (64-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.14\\Python 3.14 Manuals (64-bit).lnk",
+      "names": [
+        "python 3.14 manuals (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "python 3.14 module docs (64-bit)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.14\\Python 3.14 Module Docs (64-bit).lnk",
+      "names": [
+        "python 3.14 module docs (64-bit)"
+      ],
+      "type": "shortcut"
+    },
+    "razer chroma": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Razer\\Razer Chroma.lnk",
+      "names": [
+        "razer chroma"
+      ],
+      "type": "shortcut"
+    },
+    "razer synapse": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Razer\\Razer Synapse.lnk",
+      "names": [
+        "razer synapse"
+      ],
+      "type": "shortcut"
+    },
+    "league of legends": {
+      "exe": "C:/Riot Games/League of Legends",
+      "names": [
+        "league of legends"
+      ],
+      "type": "registry"
+    },
+    "riot client": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games\\Riot Client.lnk",
+      "names": [
+        "riot client"
+      ],
+      "type": "shortcut"
+    },
+    "riot i̇stemcisi": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Riot Games\\Riot İstemcisi.lnk",
+      "names": [
+        "riot i̇stemcisi"
+      ],
+      "type": "shortcut"
+    },
+    "tlauncher": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TLauncher\\TLauncher.lnk",
+      "names": [
+        "tlauncher"
+      ],
+      "type": "shortcut"
+    },
+    "developer command prompt for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\Developer Command Prompt for VS 2019.lnk",
+      "names": [
+        "developer command prompt for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "developer powershell for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\Developer PowerShell for VS 2019.lnk",
+      "names": [
+        "developer powershell for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "x64 native tools command prompt for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\VC\\x64 Native Tools Command Prompt for VS 2019.lnk",
+      "names": [
+        "x64 native tools command prompt for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "x64_x86 cross tools command prompt for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\VC\\x64_x86 Cross Tools Command Prompt for VS 2019.lnk",
+      "names": [
+        "x64_x86 cross tools command prompt for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "x86 native tools command prompt for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\VC\\x86 Native Tools Command Prompt for VS 2019.lnk",
+      "names": [
+        "x86 native tools command prompt for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "x86_x64 cross tools command prompt for vs 2019": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\VC\\x86_x64 Cross Tools Command Prompt for VS 2019.lnk",
+      "names": [
+        "x86_x64 cross tools command prompt for vs 2019"
+      ],
+      "type": "shortcut"
+    },
+    "debuggable package manager": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Debuggable Package Manager.lnk",
+      "names": [
+        "debuggable package manager"
+      ],
+      "type": "shortcut"
+    },
+    "developer command prompt for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer Command Prompt for VS 2022.lnk",
+      "names": [
+        "developer command prompt for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "developer powershell for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer PowerShell for VS 2022.lnk",
+      "names": [
+        "developer powershell for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "x64 native tools command prompt for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64 Native Tools Command Prompt for VS 2022.lnk",
+      "names": [
+        "x64 native tools command prompt for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "x64_x86 cross tools command prompt for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64_x86 Cross Tools Command Prompt for VS 2022.lnk",
+      "names": [
+        "x64_x86 cross tools command prompt for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "x86 native tools command prompt for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86 Native Tools Command Prompt for VS 2022.lnk",
+      "names": [
+        "x86 native tools command prompt for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "x86_x64 cross tools command prompt for vs 2022": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86_x64 Cross Tools Command Prompt for VS 2022.lnk",
+      "names": [
+        "x86_x64 cross tools command prompt for vs 2022"
+      ],
+      "type": "shortcut"
+    },
+    "application verifier (x64)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier (X64).lnk",
+      "names": [
+        "application verifier (x64)"
+      ],
+      "type": "shortcut"
+    },
+    "application verifier (wow)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X86)\\Application Verifier (WOW).lnk",
+      "names": [
+        "application verifier (wow)"
+      ],
+      "type": "shortcut"
+    },
+    "windows app cert kit": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows App Certification Kit\\Windows App Cert Kit.lnk",
+      "names": [
+        "windows app cert kit"
+      ],
+      "type": "shortcut"
+    },
+    "gpuview": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView.lnk",
+      "names": [
+        "gpuview"
+      ],
+      "type": "shortcut"
+    },
+    "windows performance analyzer": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Analyzer.lnk",
+      "names": [
+        "windows performance analyzer"
+      ],
+      "type": "shortcut"
+    },
+    "windows performance recorder": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Recorder.lnk",
+      "names": [
+        "windows performance recorder"
+      ],
+      "type": "shortcut"
+    },
+    "samples for desktop apps": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Desktop Apps.lnk",
+      "names": [
+        "samples for desktop apps"
+      ],
+      "type": "shortcut"
+    },
+    "samples for windows store apps": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Windows Store Apps.lnk",
+      "names": [
+        "samples for windows store apps"
+      ],
+      "type": "shortcut"
+    },
+    "tools for desktop apps": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Desktop Apps.lnk",
+      "names": [
+        "tools for desktop apps"
+      ],
+      "type": "shortcut"
+    },
+    "tools for windows store apps": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Windows Store Apps.lnk",
+      "names": [
+        "tools for windows store apps"
+      ],
+      "type": "shortcut"
+    },
+    "windows software development kit": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk",
+      "names": [
+        "windows software development kit"
+      ],
+      "type": "shortcut"
+    },
+    "windows powershell ise (x86) (1)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86) (1).lnk",
+      "names": [
+        "windows powershell ise (x86) (1)"
+      ],
+      "type": "shortcut"
+    },
+    "windows powershell ise (x86)": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+      "names": [
+        "windows powershell ise (x86)"
+      ],
+      "type": "shortcut"
+    },
+    "windows powershell ise": {
+      "exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+      "names": [
+        "windows powershell ise"
+      ],
+      "type": "shortcut"
+    },
+    "windscribe": {
+      "exe": "C:\\Program Files\\Windscribe\\",
+      "names": [
+        "windscribe"
+      ],
+      "type": "registry"
+    },
+    "cpuid hwmonitor 1.57": {
+      "exe": "C:\\Program Files\\CPUID\\HWMonitor\\",
+      "names": [
+        "cpuid hwmonitor 1.57"
+      ],
+      "type": "registry"
+    },
+    "git": {
+      "exe": "C:\\Program Files\\Git\\",
+      "names": [
+        "git"
+      ],
+      "type": "registry"
+    },
+    "imagemagick 7.1.1-45 q16-hdri (64-bit) (2025-03-09)": {
+      "exe": "C:\\Program Files\\ImageMagick-7.1.1-Q16-HDRI\\",
+      "names": [
+        "imagemagick 7.1.1-45 q16-hdri (64-bit) (2025-03-09)"
+      ],
+      "type": "registry"
+    },
+    "microsoft office professional 2016 - tr-tr": {
+      "exe": "C:\\Program Files\\Microsoft Office",
+      "names": [
+        "microsoft office professional 2016 - tr-tr"
+      ],
+      "type": "registry"
+    },
+    "riot vanguard": {
+      "exe": "C:\\Program Files\\Riot Vanguard",
+      "names": [
+        "riot vanguard"
+      ],
+      "type": "registry"
+    },
+    "wallpaper engine": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine",
+      "names": [
+        "wallpaper engine"
+      ],
+      "type": "registry"
+    },
+    "winrar 7.10 (64 bit)": {
+      "exe": "C:\\Program Files\\WinRAR",
+      "names": [
+        "winrar 7.10 (64 bit)"
+      ],
+      "type": "registry"
+    },
+    "microsoft visual studio installer": {
+      "exe": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\"",
+      "names": [
+        "microsoft visual studio installer"
+      ],
+      "type": "registry"
+    },
+    "java 8 update 401 (64-bit)": {
+      "exe": "C:\\Program Files\\Java\\jre-1.8\\",
+      "names": [
+        "java 8 update 401 (64-bit)"
+      ],
+      "type": "registry"
+    },
+    "vigem bus driver": {
+      "exe": "C:\\Program Files\\Nefarius Software Solutions\\ViGEm Bus Driver\\",
+      "names": [
+        "vigem bus driver"
+      ],
+      "type": "registry"
+    },
+    "adobe acrobat (64-bit)": {
+      "exe": "C:\\Program Files\\Adobe\\Acrobat DC\\",
+      "names": [
+        "adobe acrobat (64-bit)"
+      ],
+      "type": "registry"
+    },
+    "nvidia grafik sürücüsü 591.74": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{632C897D-DE7E-45D2-AE4E-A737BCDD5B85}",
+      "names": [
+        "nvidia grafik sürücüsü 591.74"
+      ],
+      "type": "registry"
+    },
+    "nvidia app 11.0.5.420": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.{C0372B41-CB11-4A60-BA21-16B1C73CC572}",
+      "names": [
+        "nvidia app 11.0.5.420"
+      ],
+      "type": "registry"
+    },
+    "nvidia messagebus 3 for nvapp": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.MessageBus.{8FC1482E-EEAD-47B3-89F1-2D211E2BBA78}",
+      "names": [
+        "nvidia messagebus 3 for nvapp"
+      ],
+      "type": "registry"
+    },
+    "nvidia backend": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvBackend.{239EDCC4-8D7F-4110-9D88-1FB42DA0FC60}",
+      "names": [
+        "nvidia backend"
+      ],
+      "type": "registry"
+    },
+    "nvcpl": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvCPL.{B0E84F23-0516-4EC8-A8A7-894743755249}",
+      "names": [
+        "nvcpl"
+      ],
+      "type": "registry"
+    },
+    "nvidia physx sistem yazılımı 9.23.1019": {
+      "exe": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX",
+      "names": [
+        "nvidia physx sistem yazılımı 9.23.1019"
+      ],
+      "type": "registry"
+    },
+    "nvidia frameview sdk 1.5.11504.36206172": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK",
+      "names": [
+        "nvidia frameview sdk 1.5.11504.36206172"
+      ],
+      "type": "registry"
+    },
+    "nvidia hd ses sürücüsü 1.4.5.7": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{3F7C6F3F-2097-4781-83CB-F9541CE65685}",
+      "names": [
+        "nvidia hd ses sürücüsü 1.4.5.7"
+      ],
+      "type": "registry"
+    },
+    "nvidia install application": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore",
+      "names": [
+        "nvidia install application"
+      ],
+      "type": "registry"
+    },
+    "nvidia container": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\NvContainer",
+      "names": [
+        "nvidia container"
+      ],
+      "type": "registry"
+    },
+    "nvidia aiuser container": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.AIUser.{CA38FADE-CFE5-4280-AC4A-9E0CA1B830D6}",
+      "names": [
+        "nvidia aiuser container"
+      ],
+      "type": "registry"
+    },
+    "nvidia localsystem container": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{3E5719BE-D857-4FD2-9360-0584C3AEF30A}",
+      "names": [
+        "nvidia localsystem container"
+      ],
+      "type": "registry"
+    },
+    "nvidia session container": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{11832676-1D10-4DDB-8597-156B86A3B885}",
+      "names": [
+        "nvidia session container"
+      ],
+      "type": "registry"
+    },
+    "nvidia user container": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{5C5BEA39-1A56-45AF-B23C-5A5B3E2F11A9}",
+      "names": [
+        "nvidia user container"
+      ],
+      "type": "registry"
+    },
+    "nvidia nvdlisr": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvDLISR.{DE1C9D3B-0638-4521-BFB8-21854AF9E4BF}",
+      "names": [
+        "nvidia nvdlisr"
+      ],
+      "type": "registry"
+    },
+    "nvidia platform controllers and framework": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NVPCF.{758ABEF3-18F2-4BFF-84C7-097CDFAAAE81}",
+      "names": [
+        "nvidia platform controllers and framework"
+      ],
+      "type": "registry"
+    },
+    "nvidia watchdog plugin for nvcontainer": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{0576FE1A-D0C3-413F-A45C-B40CE55662CB}",
+      "names": [
+        "nvidia watchdog plugin for nvcontainer"
+      ],
+      "type": "registry"
+    },
+    "nvidia telemetry client": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\NvTelemetry",
+      "names": [
+        "nvidia telemetry client"
+      ],
+      "type": "registry"
+    },
+    "nvidia shadowplay 11.0.5.400": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay",
+      "names": [
+        "nvidia shadowplay 11.0.5.400"
+      ],
+      "type": "registry"
+    },
+    "nvidia usbc driver 1.52.831.832": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\USBC.{2E62EEE3-48F2-4D4B-A5E3-17BCF43AF969}",
+      "names": [
+        "nvidia usbc driver 1.52.831.832"
+      ],
+      "type": "registry"
+    },
+    "nvidia virtual audio 4.65.0.3": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{7222D5F9-77BF-425D-88BE-3A9C033475F2}",
+      "names": [
+        "nvidia virtual audio 4.65.0.3"
+      ],
+      "type": "registry"
+    },
+    "riot client ": {
+      "exe": "C:/Riot Games/Riot Client",
+      "names": [
+        "riot client "
+      ],
+      "type": "registry"
+    },
+    "ollama version 0.13.5": {
+      "exe": "C:\\Users\\erdem\\AppData\\Local\\Programs\\Ollama\\",
+      "names": [
+        "ollama version 0.13.5"
+      ],
+      "type": "registry"
+    },
+    "microsoft visual studio code (user)": {
+      "exe": "C:\\Users\\erdem\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+      "names": [
+        "microsoft visual studio code (user)"
+      ],
+      "type": "registry"
+    },
+    "android": {
+      "exe": "C:\\Program Files\\Android\\Android Studio\\bin\\elevator.exe",
+      "names": [
+        "android"
+      ],
+      "type": "program_files"
+    },
+    "dotnet": {
+      "exe": "C:\\Program Files\\dotnet\\dotnet.exe",
+      "names": [
+        "dotnet"
+      ],
+      "type": "program_files"
+    },
+    "ffmpeg": {
+      "exe": "C:\\Program Files\\FFmpeg\\bin\\ffmpeg.exe",
+      "names": [
+        "ffmpeg"
+      ],
+      "type": "program_files"
+    },
+    "imagemagick-7.1.1-q16-hdri": {
+      "exe": "C:\\Program Files\\ImageMagick-7.1.1-Q16-HDRI\\compare.exe",
+      "names": [
+        "imagemagick-7.1.1-q16-hdri"
+      ],
+      "type": "program_files"
+    },
+    "internet explorer": {
+      "exe": "C:\\Program Files\\Internet Explorer\\ExtExport.exe",
+      "names": [
+        "internet explorer"
+      ],
+      "type": "program_files"
+    },
+    "java": {
+      "exe": "C:\\Program Files\\Java\\jre-1.8\\bin\\jabswitch.exe",
+      "names": [
+        "java"
+      ],
+      "type": "program_files"
+    },
+    "jetbrains": {
+      "exe": "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2025.2.3\\bin\\elevator.exe",
+      "names": [
+        "jetbrains"
+      ],
+      "type": "program_files"
+    },
+    "lghub": {
+      "exe": "C:\\Program Files\\LGHUB\\lghub.exe",
+      "names": [
+        "lghub"
+      ],
+      "type": "program_files"
+    },
+    "microsoft office": {
+      "exe": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ADDINS\\Microsoft Power Query for Excel Integrated\\bin\\Microsoft.Mashup.Container.Loader.exe",
+      "names": [
+        "microsoft office"
+      ],
+      "type": "program_files"
+    },
+    "microsoft onedrive": {
+      "exe": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe",
+      "names": [
+        "microsoft onedrive"
+      ],
+      "type": "program_files"
+    },
+    "microsoft update health tools": {
+      "exe": "C:\\Program Files\\Microsoft Update Health Tools\\expediteupdater.exe",
+      "names": [
+        "microsoft update health tools"
+      ],
+      "type": "program_files"
+    },
+    "microsoft visual studio": {
+      "exe": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe",
+      "names": [
+        "microsoft visual studio"
+      ],
+      "type": "program_files"
+    },
+    "nodejs": {
+      "exe": "C:\\Program Files\\nodejs\\node.exe",
+      "names": [
+        "nodejs"
+      ],
+      "type": "program_files"
+    },
+    "nvidia corporation": {
+      "exe": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\bin\\nvrla.exe",
+      "names": [
+        "nvidia corporation"
+      ],
+      "type": "program_files"
+    },
+    "obs-studio": {
+      "exe": "C:\\Program Files\\obs-studio\\uninstall.exe",
+      "names": [
+        "obs-studio"
+      ],
+      "type": "program_files"
+    },
+    "ruxim": {
+      "exe": "C:\\Program Files\\RUXIM\\DTUDriver.exe",
+      "names": [
+        "ruxim"
+      ],
+      "type": "program_files"
+    },
+    "windows defender": {
+      "exe": "C:\\Program Files\\Windows Defender\\ConfigSecurityPolicy.exe",
+      "names": [
+        "windows defender"
+      ],
+      "type": "program_files"
+    },
+    "windows defender advanced threat protection": {
+      "exe": "C:\\Program Files\\Windows Defender Advanced Threat Protection\\MsSense.exe",
+      "names": [
+        "windows defender advanced threat protection"
+      ],
+      "type": "program_files"
+    },
+    "windows mail": {
+      "exe": "C:\\Program Files\\Windows Mail\\wab.exe",
+      "names": [
+        "windows mail"
+      ],
+      "type": "program_files"
+    },
+    "windows media player": {
+      "exe": "C:\\Program Files\\Windows Media Player\\setup_wm.exe",
+      "names": [
+        "windows media player"
+      ],
+      "type": "program_files"
+    },
+    "windows photo viewer": {
+      "exe": "C:\\Program Files\\Windows Photo Viewer\\ImagingDevices.exe",
+      "names": [
+        "windows photo viewer"
+      ],
+      "type": "program_files"
+    },
+    "dev-cpp": {
+      "exe": "C:\\Program Files (x86)\\Dev-Cpp\\ConsolePauser.exe",
+      "names": [
+        "dev-cpp"
+      ],
+      "type": "program_files"
+    },
+    "easyanticheat_eos": {
+      "exe": "C:\\Program Files (x86)\\EasyAntiCheat_EOS\\EasyAntiCheat_EOS.exe",
+      "names": [
+        "easyanticheat_eos"
+      ],
+      "type": "program_files"
+    },
+    "gameforgeclient": {
+      "exe": "C:\\Program Files (x86)\\GameforgeClient\\gfclient.exe",
+      "names": [
+        "gameforgeclient"
+      ],
+      "type": "program_files"
+    },
+    "interhaptics": {
+      "exe": "C:\\Program Files (x86)\\Interhaptics\\Uninstall.exe",
+      "names": [
+        "interhaptics"
+      ],
+      "type": "program_files"
+    },
+    "microsoft sdks": {
+      "exe": "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\al.exe",
+      "names": [
+        "microsoft sdks"
+      ],
+      "type": "program_files"
+    },
+    "razer": {
+      "exe": "C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin\\RzChromaConnectClient.exe",
+      "names": [
+        "razer"
+      ],
+      "type": "program_files"
+    },
+    "razer chroma sdk": {
+      "exe": "C:\\Program Files (x86)\\Razer Chroma SDK\\Razer_Chroma_SDK_Uninstaller.exe",
+      "names": [
+        "razer chroma sdk"
+      ],
+      "type": "program_files"
+    },
+    "windows kits": {
+      "exe": "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.19041.0\\arm\\accevent.exe",
+      "names": [
+        "windows kits"
+      ],
+      "type": "program_files"
+    },
+    "windowsinstallationassistant": {
+      "exe": "C:\\Program Files (x86)\\WindowsInstallationAssistant\\GetCurrentRollback.EXE",
+      "names": [
+        "windowsinstallationassistant"
+      ],
+      "type": "program_files"
+    },
+    "steam_brawlhalla": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Brawlhalla\\Brawlhalla.exe",
+      "names": [
+        "brawlhalla",
+        "steam brawlhalla"
+      ],
+      "type": "steam_game"
+    },
+    "steam_business tour": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Business Tour\\BusinessTour.exe",
+      "names": [
+        "business tour",
+        "steam business tour"
+      ],
+      "type": "steam_game"
+    },
+    "steam_counter-strike global offensive": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\game\\bin\\win64\\cs2.exe",
+      "names": [
+        "counter-strike global offensive",
+        "steam counter-strike global offensive"
+      ],
+      "type": "steam_game"
+    },
+    "steam_steamworks shared": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared\\_CommonRedist\\DirectX\\Jun2010\\DXSETUP.exe",
+      "names": [
+        "steamworks shared",
+        "steam steamworks shared"
+      ],
+      "type": "steam_game"
+    },
+    "steam_wallpaper_engine": {
+      "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\installer.exe",
+      "names": [
+        "wallpaper_engine",
+        "steam wallpaper_engine"
+      ],
+      "type": "steam_game"
+    },
+    "epic_frostpunk": {
+      "exe": "C:/Program Files/Epic Games/Frostpunk",
+      "names": [
+        "frostpunk",
+        "epic frostpunk"
+      ],
+      "type": "epic_game"
+    },
+    "youtube": {
+      "exe": "https://www.youtube.com",
+      "names": [
+        "youtube"
+      ],
+      "type": "web"
+    },
+    "gmail": {
+      "exe": "https://mail.google.com",
+      "names": [
+        "gmail",
+        "mail"
+      ],
+      "type": "web"
+    },
+    "drive": {
+      "exe": "https://drive.google.com",
+      "names": [
+        "drive",
+        "google drive"
+      ],
+      "type": "web"
+    },
+    "twitter": {
+      "exe": "https://twitter.com",
+      "names": [
+        "twitter",
+        "x"
+      ],
+      "type": "web"
+    },
+    "instagram": {
+      "exe": "https://instagram.com",
+      "names": [
+        "instagram"
+      ],
+      "type": "web"
+    },
+    "facebook": {
+      "exe": "https://facebook.com",
+      "names": [
+        "facebook"
+      ],
+      "type": "web"
+    },
+    "netflix": {
+      "exe": "https://netflix.com",
+      "names": [
+        "netflix"
+      ],
+      "type": "web"
+    }
+  },
+  "steam": {
+    "brawlhalla": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Brawlhalla\\Brawlhalla.exe",
+    "business tour": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Business Tour\\BusinessTour.exe",
+    "counter-strike global offensive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\game\\bin\\win64\\cs2.exe",
+    "steamworks shared": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steamworks Shared\\_CommonRedist\\DirectX\\Jun2010\\DXSETUP.exe",
+    "wallpaper_engine": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\installer.exe"
+  },
+  "epic": {
+    "frostpunk": "C:/Program Files/Epic Games/Frostpunk"
+  }
+}
