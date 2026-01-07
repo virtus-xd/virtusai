@@ -1,3 +1,0 @@
-"""
-Virtus Core Modülleri
-"""
